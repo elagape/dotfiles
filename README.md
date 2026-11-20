@@ -2,8 +2,6 @@
 
 ![preview](screenshots/fastfetch.png)
 
-Custom [fastfetch](https://github.com/fastfetch-cli/fastfetch) config with a custom ASCII logo, made for CachyOS.
-
 ## Installation
 
 ### 1. Install fastfetch and git

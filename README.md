@@ -37,20 +37,6 @@ cp -r ~/dotfiles/fastfetch/* ~/.config/fastfetch/
 fastfetch
 ```
 
-### Optional: symlink instead of copying
-Edits in `~/.config/fastfetch` will then update the repo automatically.
-```bash
-rm -rf ~/.config/fastfetch
-ln -s ~/dotfiles/fastfetch ~/.config/fastfetch
-```
-
-### Optional: run on every terminal start
-```bash
-echo "fastfetch" >> ~/.bashrc   # bash
-echo "fastfetch" >> ~/.zshrc    # zsh
-echo "fastfetch" >> ~/.config/fish/config.fish   # fish
-```
-
 ## Files
 - `fastfetch/config.jsonc`: main config
 - `fastfetch/cachy.txt`: custom ASCII logo

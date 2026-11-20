@@ -59,3 +59,8 @@ echo "fastfetch" >> ~/.config/fish/config.fish   # fish
 ## Notes
 - The logo path in the config is `~/.config/fastfetch/cachy.txt`, so keep the files together.
 - Icons may need a [Nerd Font](https://www.nerdfonts.com/) set in your terminal.
+
+
+## Credits
+
+- Fastfetch config adapted from [capricorn034/dots](https://github.com/capricorn034/dots/blob/main/fastfetch/3.jsonc)

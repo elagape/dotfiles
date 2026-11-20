@@ -8,7 +8,9 @@ Custom [fastfetch](https://github.com/fastfetch-cli/fastfetch) config with a cus
 
 ### 1. Install dependencies
 ```bash
-sudo pacman -S fastfetch git
+sudo pacman -S fastfetch
+sudo apt install fastfetch
+sudo dnf install fastfetch
 ```
 
 ### 2. Clone the repo

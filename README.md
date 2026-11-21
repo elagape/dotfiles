@@ -42,7 +42,7 @@ fastfetch
 
 ## Notes
 - The logo path in the config is `~/.config/fastfetch/cachy.txt`, so keep the files together.
-- Icons may need a [Nerd Font](https://www.nerdfonts.com/) set in your terminal.
+- Icons need the [JetBrains Mono Nerd Font](https://www.nerdfonts.com/font-downloads) set in your terminal.
 
 
 ## Credits
